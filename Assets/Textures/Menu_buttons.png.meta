@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 05ae4439b4a09cd4a8dbd8480eaaf165
+timeCreated: 1460975705
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Menu_buttons_0
+    21300002: Menu_buttons_1
+    21300004: Menu_buttons_2
+    21300006: Menu_buttons_3
+    21300008: Menu_buttons_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Menu_buttons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 344
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.5, y: 40.74698}
+        - {x: -131.5, y: 37.74698}
+        - {x: -131.5, y: -37.25302}
+        - {x: -128.5, y: -39.25302}
+        - {x: 131.5, y: -39.25302}
+        - {x: 131.5, y: 40.74698}
+    - name: Menu_buttons_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 560
+        width: 343
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128.02408, y: 40.74698}
+        - {x: -127.97592, y: 40.74698}
+        - {x: -130.97592, y: 37.74698}
+        - {x: -130.97592, y: -37.25302}
+        - {x: -127.97592, y: -39.25302}
+        - {x: 126.02408, y: -39.25302}
+        - {x: 131.02408, y: -37.25302}
+        - {x: 131.02408, y: 37.74698}
+    - name: Menu_buttons_2
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 560
+        width: 344
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -131.21387, y: 40.74698}
+        - {x: -131.21387, y: -35.25302}
+        - {x: -129.21387, y: -38.25302}
+        - {x: -125.21387, y: -39.25302}
+        - {x: 128.78613, y: -39.25302}
+        - {x: 131.78613, y: -38.25302}
+        - {x: 131.78613, y: 40.74698}
+    - name: Menu_buttons_3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 150
+        width: 343
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124.97592, y: 40.807228}
+        - {x: -128.97592, y: 39.807228}
+        - {x: -130.97592, y: 36.807228}
+        - {x: -130.97592, y: -37.192772}
+        - {x: -127.97592, y: -40.192772}
+        - {x: 131.02408, y: -40.192772}
+        - {x: 131.02408, y: 40.807228}
+    - name: Menu_buttons_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 343
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -125.97592, y: 40}
+        - {x: -130.97592, y: 38}
+        - {x: -130.97592, y: -37}
+        - {x: -127.97592, y: -40}
+        - {x: 128.02408, y: -40}
+        - {x: 131.02408, y: -37}
+        - {x: 131.02408, y: 38}
+        - {x: 128.02408, y: 40}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
